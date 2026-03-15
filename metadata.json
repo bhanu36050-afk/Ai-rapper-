@@ -1,0 +1,7 @@
+{
+  "name": "GullyAI - Cyberpunk Rap Generator",
+  "description": "Generate savage Desi rap lyrics and rhythmic AI voices with GullyAI. Features Burn, Gully, and Flex modes with tiered monetization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
